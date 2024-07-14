@@ -11,5 +11,3 @@ El Catálogo de Libros ofrece las siguientes opciones de interacción:
 3. **Listar Libros Populares**: Muestra una lista de los libros más populares según la API.
 4. **Agregar Libros a Favoritos**: Permite al usuario guardar libros en una lista de favoritos.
 5. **Eliminar Libros de Favoritos**: Permite al usuario eliminar libros de su lista de favoritos.
-
-## Requisitos
